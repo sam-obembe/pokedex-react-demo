@@ -14,3 +14,6 @@ Teaches:
 Dependencies:
 - React
 - Axios
+
+API Docs:
+- https://pokeapi.co/docsv2/
