@@ -16,7 +16,7 @@ class App extends Component {
     super();
     // STATE
     this.state = {
-      owner: "Larry"
+      owner: "Team Rocket Tim"
     };
   }
   // RENDER APP
